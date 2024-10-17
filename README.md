@@ -1,4 +1,5 @@
 Nathaniel Bauer
+
 Welcome to my GitHub! I'm Nathan, a Computer Science student at the University of Maryland, passionate about the world of AI and Machine Learning with a special interest in their applications in finance.
 
 About Me
