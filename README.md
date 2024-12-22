@@ -14,7 +14,7 @@ Frameworks/Tools: React, Node.js
 Soft Skills: Problem Solving, Critical Thinking, Team Collaboration
 
 How to Reach Me
-📧 Email: bauerjnathaniel@gmail.com
+📧 Email: nathanielbauerprofessional@gmail.com
 🔗 LinkedIn: Connect with me on LinkedIn
 
 Interests
