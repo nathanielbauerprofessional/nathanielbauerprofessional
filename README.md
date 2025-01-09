@@ -15,7 +15,7 @@ Soft Skills: Problem Solving, Critical Thinking, Team Collaboration
 
 How to Reach Me
 📧 Email: nathanielbauerprofessional@gmail.com
-🔗 LinkedIn: Connect with me on LinkedIn
+🔗 LinkedIn: (https://www.linkedin.com/in/nathaniel-bauer/)
 
 Interests
 🤖 AI and Machine Learning
